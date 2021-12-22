@@ -1,0 +1,11 @@
+version: "3.7"
+
+services:
+  assigner-bot:
+    image: node:12-alpine
+    command: sh -c "npm install && npm run start"
+    ports:
+      - 3010:3000
+    working_dir: /app
+    volumes:
+      - ./:/app
