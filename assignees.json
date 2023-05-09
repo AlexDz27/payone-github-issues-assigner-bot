@@ -1,20 +1,20 @@
 [
   {
-    "name": "Hannes Reinberger",
-    "email": "hannes.reinberger@payone.com",
-    "githubLogin": "hreinberger",
+    "name": "John Doe1",
+    "email": "john.doe1@payone.com",
+    "githubLogin": "john.doe1",
     "active": true
   },
   {
-    "name": "Juergen Varelmann",
-    "email": "juergen.varelmann@payone.com",
-    "githubLogin": "jvarelmann",
+    "name": "john.doe1",
+    "email": "john.doe1@payone.com",
+    "githubLogin": "john.doe1",
     "active": true
   },
   {
-    "name": "Jan Teuber",
-    "email": "jan.teuber@payone.com",
-    "githubLogin": "janteuber",
+    "name": "john.doe1",
+    "email": "john.doe1@payone.com",
+    "githubLogin": "john.doe1",
     "active": true
   }
 ]
